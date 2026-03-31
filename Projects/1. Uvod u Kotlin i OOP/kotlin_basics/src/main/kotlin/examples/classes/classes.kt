@@ -5,7 +5,7 @@ fun runStudentExample(){
     println(student.name)
 }
 
-
+/*
 fun runPlayerExample() {
     val player = Player("John", 3)
     println(player)
@@ -15,4 +15,4 @@ fun runPlayerExample() {
         player.takeDamage(60)
     }
     println(player)
-}
+}*/
